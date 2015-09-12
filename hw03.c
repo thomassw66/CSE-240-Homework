@@ -1,4 +1,4 @@
-// Your Name here
+// Thomas Wheeler
 
 #define _CRT_SECURE_NO_WARNINGS  // Not show security related warning
 #include <stdio.h>
